@@ -1,0 +1,7 @@
+.next
+node_modules
+backend/.venv
+data/indexes/chroma
+data/benchmark_lab.sqlite
+*.log
+.env
